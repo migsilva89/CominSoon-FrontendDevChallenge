@@ -35,6 +35,6 @@ Users should be able to:
 ## More work
 
 - Website - [Miguel Silva](https://code-camp-responsive-wd.vercel.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/migsilva89)
+- Frontend Mentor - [migsilva89](https://www.frontendmentor.io/profile/migsilva89)
 
 
