@@ -12,7 +12,7 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Submit their email address using an `input` field
 - Receive an error message when the `form` is submitted if:
-	- The email address is not formatted correctly / empty (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Please provide a valid email address"*
+- The email address is not formatted correctly / empty (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say *"Please provide a valid email address"*
 
 ### Screenshot
 
